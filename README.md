@@ -13,3 +13,5 @@ https://www.youtube.com/@LogicallyAnswered
 # index:
 - [Age verification, why systemD sucks and Void linux](https://youtu.be/1tg0UstaOok)
 - [Arch Linux Says Opposing Age Verification is Code of Conduct Violation](https://youtu.be/wR-zJKdAkOc)
+- [Making Linux Ungovernable With I2P](https://youtu.be/oc6WOCx1vCE)
+- [Slackware Says No to Age Verification, But Fedora Linux Says Yes](https://youtu.be/M5Wd39RNzvg)
