@@ -9,3 +9,7 @@ https://www.youtube.com/@LogicallyAnswered
 
 # by: Fireship
 - [This new Linux distro is breaking the law, by design…](https://youtu.be/nkY_s9HpL9M)
+
+# index:
+- [Age verification, why systemD sucks and Void linux](https://youtu.be/1tg0UstaOok)
+- [Arch Linux Says Opposing Age Verification is Code of Conduct Violation](https://youtu.be/wR-zJKdAkOc)
