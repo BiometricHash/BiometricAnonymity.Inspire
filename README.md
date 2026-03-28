@@ -1,15 +1,21 @@
 # BiometricAnonymity.Inspire
 
 # Fight over Age Verification Laws
-## by: Logically Answered
+## by:
+### Logically Answered
 https://www.youtube.com/@LogicallyAnswered
+
+### The Lunduke Journal
+- [CachyOS Censors "Radicals" Opposed to Age Verification](https://youtu.be/IJN6UWZPrzk)
+
+### Fireship
+- [This new Linux distro is breaking the law, by design…](https://youtu.be/nkY_s9HpL9M)
+
 
 ## Palantir & Government A.I. Powered Surveilance
 - [They’re Panicking…](https://youtu.be/OQYJ_S3TBdY)
 - [They're (Finally) Giving Up...](https://youtu.be/OQYJ_S3TBdY)
 
-## by: Fireship
-- [This new Linux distro is breaking the law, by design…](https://youtu.be/nkY_s9HpL9M)
 
 ## index:
 - [Age verification, why systemD sucks and Void linux](https://youtu.be/1tg0UstaOok)
